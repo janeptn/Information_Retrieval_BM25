@@ -24,3 +24,5 @@ O sistema de IR foi testado usando consultas selecionadas aleatoriamente da cole
 
 ### Testando o sistema de IR ###
 Para testar o sistema de IR, basta executar o código fornecido no Google Colab Notebook. O código usa a coleção CISI como corpus e as consultas de teste estão incluídas no notebook. 
+
+**Notebook** - https://colab.research.google.com/drive/1mzuZb01iH-JkB4ySH5ZD7a1Pklzul9rf?usp=sharing
