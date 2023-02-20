@@ -20,10 +20,7 @@ A implementação do sistema de IR foi feita usando a linguagem de programação
 O modelo de linguagem GPT-3 foi usado para auxiliar na solução de problemas e codificação. O ChatGPT foi utilizado para fornecer ajuda em todas as fases do projeto. O modelo foi capaz de fornecer sugestões de soluções para problemas específicos e também ajudou a compreender melhor alguns conceitos do projeto. Através do chat, foi possível receber feedback e sugestões para melhorar o código e torná-lo mais eficiente.
 
 ### Resultados ###
-O sistema de IR foi testado usando 30 consultas selecionadas aleatoriamente da coleção CISI. Para cada consulta, o sistema retornou uma lista de documentos ordenados por ordem de relevância. A avaliação de desempenho foi realizada usando as métricas de precisão e revocação, que medem a fração de documentos relevantes recuperados e a fração de documentos relevantes na coleção que foram recuperados, respectivamente.
-
-Os resultados mostraram que o sistema de IR com o BM25 obteve um desempenho razoável na recuperação de documentos relevantes para as consultas. A precisão média foi de 0,14 e a revocação média foi de 0,29.
+O sistema de IR foi testado usando consultas selecionadas aleatoriamente da coleção CISI. Para cada consulta, o sistema retornou uma lista de documentos ordenados por ordem de relevância.
 
 ### Testando o sistema de IR ###
-Para testar o sistema de IR, basta executar o código fornecido no Google Colab Notebook. O código usa a coleção CISI como corpus e as consultas de teste estão incluídas no notebook. O usuário pode modificar as consultas de teste para ver os resultados para outras consultas.
-
+Para testar o sistema de IR, basta executar o código fornecido no Google Colab Notebook. O código usa a coleção CISI como corpus e as consultas de teste estão incluídas no notebook. 
